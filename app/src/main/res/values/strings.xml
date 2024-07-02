@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Location Finder Prank</string>
+    <string name="heading">Welcome</string>
+    <string name="set_location">Button</string>
+    <string name="set_loc_txt">Submit</string>
+    <string name="enter_the_location">Enter the location</string>
+</resources>
